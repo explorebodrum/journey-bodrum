@@ -1,0 +1,1 @@
+Turgutreis is another beautiful coastal town near Bodrum, offering visitors a more traditional Turkish experience. Known for its sandy beaches and crystal-clear waters, Türgütreis is an ideal destination for those seeking relaxation and tranquility.
