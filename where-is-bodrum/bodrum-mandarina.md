@@ -1,2 +1,3 @@
 # Bodrum Mandarina
 
+he Bodrum Mandarina is a luxury resort located in Turkbuku, Turkey. It features villas with private pools, sea views, and beach access. The complex has several amenities such as restaurants, a spa, fitness center, and tennis courts. Guests can enjoy water sports, golfing, and boat trips to nearby bays. The resort is family-friendly and offers activities for children, including a kids' club and playgrounds. It also has a private beach and a shuttle service to the town center. The Mandarina Resort Bodrum is an all-inclusive option that includes meals, drinks, and entertainment in its rates. The resort's location provides easy access to the area's attractions such as the Turkbuku Beach and the Bodrum Castle
