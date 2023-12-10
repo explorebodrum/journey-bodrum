@@ -25,6 +25,8 @@
 
 * [Where is the 'Turkish Riviera and what is it like?](aegean-sea/where-is-the-turkish-riviera-and-what-is-it-like.md)
 * [What are some things to do near Bodrum Turkey?](aegean-sea/what-are-some-things-to-do-near-bodrum-turkey.md)
+* [Which is a better city for the quality of living, Bodrum or Izmir?](aegean-sea/which-is-a-better-city-for-the-quality-of-living-bodrum-or-izmir.md)
+* [What is the best thing about living in Turkey?](aegean-sea/what-is-the-best-thing-about-living-in-turkey.md)
 
 ## Bus Station
 
