@@ -1,0 +1,3 @@
+YALIKAVAK
+GÜMÜŞLÜK
+TÜRKBÜKÜ
