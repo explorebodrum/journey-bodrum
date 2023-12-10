@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Destination](Destination.md)
+* [Destination](destination.md)
 * [History](history.md)
 
 ## Group 1
