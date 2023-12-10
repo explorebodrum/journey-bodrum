@@ -13,17 +13,18 @@
 
 * [Page 2](what-to-do-in-bodrum/page-2.md)
 
-## where to stay in bodrum&#x20;
+## where to stay in bodrum
 
 * [Page 3](where-to-stay-in-bodrum/page-3.md)
 
-## where to stay in bodrum&#x20;
+## where to stay in bodrum
 
 * [Page 4](where-to-stay-in-bodrum-1/page-4.md)
 
-## Group 5
+## Aegean Sea
 
-* [Page 5](group-5/page-5.md)
+* [Where is the 'Turkish Riviera and what is it like?](aegean-sea/where-is-the-turkish-riviera-and-what-is-it-like.md)
+* [What are some things to do near Bodrum Turkey?](aegean-sea/what-are-some-things-to-do-near-bodrum-turkey.md)
 
 ## Bus Station
 
@@ -35,3 +36,5 @@
 ## Fine Dining
 
 * [What are some fun activities to do in Bodrum?](fine-dining/what-are-some-fun-activities-to-do-in-bodrum.md)
+* [Where can the best kebab in Turkey be found?](fine-dining/where-can-the-best-kebab-in-turkey-be-found.md)
+* [Where can I find the best Baklava in Istanbul?](fine-dining/where-can-i-find-the-best-baklava-in-istanbul.md)
