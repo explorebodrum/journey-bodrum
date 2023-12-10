@@ -44,6 +44,8 @@
 ## Luxury Hotels
 
 * [Lujo Hotel Bodrum](luxury-hotels/page-1.md)
+* [Vogue Hotel Bodrum](luxury-hotels/vogue-hotel-bodrum.md)
+* [Ttitanic Deluxe Bodrum](luxury-hotels/ttitanic-deluxe-bodrum.md)
 
 ## Bodrum Restaurant
 
