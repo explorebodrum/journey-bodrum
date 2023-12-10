@@ -1,3 +1,4 @@
-YALIKAVAK
-GÜMÜŞLÜK
-TÜRKBÜKÜ
+# Bodrum Destinaton
+
+* [Yalikavak](Yalikavak.md)
+
