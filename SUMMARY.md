@@ -31,3 +31,7 @@
 * [What should I know before going in Bodrum, Turkey?](bus-station/what-should-i-know-before-going-in-bodrum-turkey.md)
 * [How is the daily life in Bodrum, Turkey?](bus-station/how-is-the-daily-life-in-bodrum-turkey.md)
 * [Is it safe to travel by bus in Turkey?](bus-station/is-it-safe-to-travel-by-bus-in-turkey.md)
+
+## What is the best restaurant in Bodrum??
+
+* [What are some fun activities to do in Bodrum?](what-is-the-best-restaurant-in-bodrum/what-are-some-fun-activities-to-do-in-bodrum.md)
