@@ -40,3 +40,12 @@
 * [What are some fun activities to do in Bodrum?](fine-dining/what-are-some-fun-activities-to-do-in-bodrum.md)
 * [Where can the best kebab in Turkey be found?](fine-dining/where-can-the-best-kebab-in-turkey-be-found.md)
 * [Where can I find the best Baklava in Istanbul?](fine-dining/where-can-i-find-the-best-baklava-in-istanbul.md)
+
+## Luxury Hotels
+
+* [Page 1](luxury-hotels/page-1.md)
+
+## Bodrum Restaurant
+
+* [What is the best restaurant in Bodrum?](bodrum-restaurant/what-is-the-best-restaurant-in-bodrum.md)
+* [What is the best Turkish restaurant for pizza?](bodrum-restaurant/what-is-the-best-turkish-restaurant-for-pizza.md)
