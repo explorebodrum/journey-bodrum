@@ -43,7 +43,7 @@
 
 ## Luxury Hotels
 
-* [Page 1](luxury-hotels/page-1.md)
+* [Lujo Hotel Bodrum](luxury-hotels/page-1.md)
 
 ## Bodrum Restaurant
 
