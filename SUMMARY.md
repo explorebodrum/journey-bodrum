@@ -24,3 +24,10 @@
 ## Group 5
 
 * [Page 5](group-5/page-5.md)
+
+## Bus Station
+
+* [How to get from Istanbul to Bodrum?](bus-station/how-to-get-from-istanbul-to-bodrum.md)
+* [What should I know before going in Bodrum, Turkey?](bus-station/what-should-i-know-before-going-in-bodrum-turkey.md)
+* [How is the daily life in Bodrum, Turkey?](bus-station/how-is-the-daily-life-in-bodrum-turkey.md)
+* [Is it safe to travel by bus in Turkey?](bus-station/is-it-safe-to-travel-by-bus-in-turkey.md)
