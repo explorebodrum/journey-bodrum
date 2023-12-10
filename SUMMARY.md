@@ -6,7 +6,7 @@
 
 ## Group 1
 
-* [Bodrum Mandarina](group-1/page-1.md)
+* [Bodrum Mandarina](group-1/bodrum-mandarina.md)
 
 ## Group 2
 
