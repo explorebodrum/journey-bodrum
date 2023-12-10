@@ -4,21 +4,22 @@
 * [Destination](destination.md)
 * [History](history.md)
 
-## Group 1
+## where is bodrum
 
-* [Bodrum Mandarina](group-1/bodrum-mandarina.md)
+* [Bodrum Mandarina](where-is-bodrum/bodrum-mandarina.md)
+* [where to stay in bodrum](where-is-bodrum/where-to-stay-in-bodrum.md)
 
-## Group 2
+## what to do in bodrum
 
-* [Page 2](group-2/page-2.md)
+* [Page 2](what-to-do-in-bodrum/page-2.md)
 
-## Group 3
+## where to stay in bodrum&#x20;
 
-* [Page 3](group-3/page-3.md)
+* [Page 3](where-to-stay-in-bodrum/page-3.md)
 
-## Group 4
+## where to stay in bodrum&#x20;
 
-* [Page 4](group-4/page-4.md)
+* [Page 4](where-to-stay-in-bodrum-1/page-4.md)
 
 ## Group 5
 
