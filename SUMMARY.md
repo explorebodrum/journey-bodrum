@@ -2,3 +2,4 @@
 
 * [Welcome](README.md)
 * [Destination](Destination.md)
+* [History](history.md)
