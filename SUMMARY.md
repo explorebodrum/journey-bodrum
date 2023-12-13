@@ -11,6 +11,10 @@
 * [BAHÇELİEVLER](bodrum-destination/bahcelievler.md)
 * [BAHÇEYAKA](bodrum-destination/bahceyaka.md)
 * [🧡 BİTEZ](bodrum-destination/bitez.md)
+* [CUMHURİYET](bodrum-destination/cumhuriyet.md)
+* [ÇAMARASI](bodrum-destination/camarasi.md)
+* [ÇAMLIK](bodrum-destination/camlik.md)
+* [ÇARŞI](bodrum-destination/carsi.md)
 
 ## where is bodrum
 
