@@ -4,6 +4,14 @@
 * [Destination](destination.md)
 * [History](history.md)
 
+## 🏠 Bodrum Destination
+
+* [AKÇAALAN](bodrum-destination/akcaalan.md)
+* [AKYARLAR](bodrum-destination/akyarlar.md)
+* [BAHÇELİEVLER](bodrum-destination/bahcelievler.md)
+* [BAHÇEYAKA](bodrum-destination/bahceyaka.md)
+* [🧡 BİTEZ](bodrum-destination/bitez.md)
+
 ## where is bodrum
 
 * [Bodrum Mandarina](where-is-bodrum/bodrum-mandarina.md)
