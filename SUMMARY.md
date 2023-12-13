@@ -35,8 +35,18 @@
 * [İSLAMHANELERİ](bodrum-destination/islamhaneleri.md)
 * [KARABAĞ](bodrum-destination/karabag.md)
 * [KARAOVA](bodrum-destination/karaova.md)
-* [Page 8](bodrum-destination/page-8.md)
-* [Page 9](bodrum-destination/page-9.md)
+* [KEMER](bodrum-destination/kemer.md)
+* [KIZILAĞAÇ](bodrum-destination/kizilagac.md)
+* [KONACIK](bodrum-destination/konacik.md)
+* [KOYUNBABA](bodrum-destination/koyunbaba.md)
+* [KUMBAHÇE](bodrum-destination/kumbahce.md)
+* [KUMKÖY](bodrum-destination/kumkoey.md)
+* [KÜÇÜKBÜK](bodrum-destination/kuecuekbuek.md)
+* [MAZIKÖY](bodrum-destination/mazikoey.md)
+* [MUMCULAR](bodrum-destination/mumcular.md)
+* [MÜSKEBİ](bodrum-destination/mueskebi.md)
+* [PEKSİMET](bodrum-destination/peksimet.md)
+* [PINARLIBELEN](bodrum-destination/pinarlibelen.md)
 
 ## where is bodrum
 
