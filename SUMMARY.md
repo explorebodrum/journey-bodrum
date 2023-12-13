@@ -26,6 +26,17 @@
 * [GERİŞ](bodrum-destination/geris.md)
 * [GÖKPINAR](bodrum-destination/goekpinar.md)
 * [GÖLBAŞI](bodrum-destination/goelbasi.md)
+* [GÖLKÖY](bodrum-destination/goelkoey.md)
+* [💃 GÜMBET](bodrum-destination/guembet.md)
+* [🕍 GÜMÜŞLÜK](bodrum-destination/guemuesluek.md)
+* [GÜNDOĞAN](bodrum-destination/guendogan.md)
+* [GÜRECE](bodrum-destination/guerece.md)
+* [GÜVERCİNLİK](bodrum-destination/guevercinlik.md)
+* [İSLAMHANELERİ](bodrum-destination/islamhaneleri.md)
+* [KARABAĞ](bodrum-destination/karabag.md)
+* [KARAOVA](bodrum-destination/karaova.md)
+* [Page 8](bodrum-destination/page-8.md)
+* [Page 9](bodrum-destination/page-9.md)
 
 ## where is bodrum
 
