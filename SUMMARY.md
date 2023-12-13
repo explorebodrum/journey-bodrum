@@ -47,6 +47,20 @@
 * [MÜSKEBİ](bodrum-destination/mueskebi.md)
 * [PEKSİMET](bodrum-destination/peksimet.md)
 * [PINARLIBELEN](bodrum-destination/pinarlibelen.md)
+* [SAZKÖY](bodrum-destination/sazkoey.md)
+* [TEPECİK](bodrum-destination/tepecik.md)
+* [TEPECİK (KARAOVA)](bodrum-destination/tepecik-karaova.md)
+* [TORBA](bodrum-destination/torba.md)
+* [🐚 TURGUTREİS](bodrum-destination/turgutreis.md)
+* [TÜRKBÜKÜ](bodrum-destination/tuerkbuekue.md)
+* [TÜRKKUYUSU](bodrum-destination/tuerkkuyusu.md)
+* [UMURCA](bodrum-destination/umurca.md)
+* [ YAHŞİ](bodrum-destination/yahsi.md)
+* [YAKAKÖY](bodrum-destination/yakakoey.md)
+* [😍 YALIKAVAK](bodrum-destination/yalikavak.md)
+* [YENİKÖY](bodrum-destination/yenikoey.md)
+* [YENİKÖY (KARAOVA)](bodrum-destination/yenikoey-karaova.md)
+* [🧚♀ YOKUŞBAŞI](bodrum-destination/yokusbasi.md)
 
 ## where is bodrum
 

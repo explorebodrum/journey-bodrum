@@ -1,0 +1,2 @@
+# TEPECİK (KARAOVA)
+
