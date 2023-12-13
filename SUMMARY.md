@@ -15,6 +15,14 @@
 * [ÇAMARASI](bodrum-destination/camarasi.md)
 * [ÇAMLIK](bodrum-destination/camlik.md)
 * [ÇARŞI](bodrum-destination/carsi.md)
+* [ÇIRKAN](bodrum-destination/cirkan.md)
+* [ÇİFTLİK](bodrum-destination/ciftlik.md)
+* [ÇÖMLEKÇİ](bodrum-destination/coemlekci.md)
+* [DAĞBELEN](bodrum-destination/dagbelen.md)
+* [DEREKÖY](bodrum-destination/derekoey.md)
+* [DİRMİL](bodrum-destination/dirmil.md)
+* [ESKİÇEŞME](bodrum-destination/eskicesme.md)
+* [FARİLYA](bodrum-destination/farilya.md)
 
 ## where is bodrum
 
