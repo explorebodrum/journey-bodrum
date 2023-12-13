@@ -23,6 +23,9 @@
 * [DİRMİL](bodrum-destination/dirmil.md)
 * [ESKİÇEŞME](bodrum-destination/eskicesme.md)
 * [FARİLYA](bodrum-destination/farilya.md)
+* [GERİŞ](bodrum-destination/geris.md)
+* [GÖKPINAR](bodrum-destination/goekpinar.md)
+* [GÖLBAŞI](bodrum-destination/goelbasi.md)
 
 ## where is bodrum
 
