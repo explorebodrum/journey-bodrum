@@ -1,5 +1,5 @@
 # MÜSKEBİ
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lF-TYfFqK3M?si=8NW7zIIvfIyDSgPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+Drone Videos
+
+* ## [Bodrum Müskebi Yahşi Mahallesi Marinasından Kabakum Sahili Drone Çekimi (Club Müskebi Hotel)](https://youtu.be/lF-TYfFqK3M?si=-KpksTLJlZlnDy8E)
