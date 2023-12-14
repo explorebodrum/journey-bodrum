@@ -7,4 +7,6 @@ Drone Videos
 Gümüşlük Restaurtants
 
 * [Mükellef Bodrum Gümüşlük](https://www.mukellefgumusluk.com/)
+* [Limon Restaurtant](https://www.limongumusluk.com/)
+* [Melengeç Restaurant](https://www.instagram.com/melengecturkbuku/?hl=en)
 
