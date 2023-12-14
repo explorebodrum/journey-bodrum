@@ -14,3 +14,10 @@ Where to stay?
 
 * ## [Yuksel Boutique Hotel](https://www.yukselbutikhotel.com/)
 * ## [Onur Hotel](https://www.onurotel.net/)
+
+
+
+### Yalıkavak Restaurant
+
+* [Bagatelle Bodrum](https://bagatelle.com/venues/bodrum/)
+*
