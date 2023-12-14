@@ -7,6 +7,14 @@ description: >-
 
 # Welcome
 
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Destination</td><td>56 Different District in Bodrum City</td><td></td></tr><tr><td>History</td><td></td><td></td></tr><tr><td>Events</td><td></td><td></td></tr></tbody></table>
+
+### Engineering knownledge for Bodrum Peninsula
+
+
+
 Tourists flock to Bodrum's stunning sandy beaches and crystal-clear azure waters, perfect for sunbathing, swimming, or sailing along the Turkish coast. The city's rich cultural heritage is evident in its numerous ancient ruins, such as the world-famous Mausoleum of Halicarnassus, which dates back to 351 BC. Additionally, visitors can explore the Castle of St. Peter, a medieval fortress that now houses the Bodrum Museum of Underwater Archaeology.
 
 Bodrum's lively nightlife is another major attraction, with numerous bars, clubs, and restaurants offering live music and entertainment well into the night. The vibrant atmosphere continues to draw visitors who appreciate good food, cocktails, and company, making it a go-to destination for those looking to experience Turkey's laid-back Mediterranean lifestyle.
