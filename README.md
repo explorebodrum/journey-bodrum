@@ -9,7 +9,7 @@ description: >-
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Destination</td><td>56 Different District in Bodrum City</td><td></td></tr><tr><td>History</td><td></td><td></td></tr><tr><td>Events</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Destination</td><td>56 Different District in Bodrum City</td><td><a href="broken-reference"><mark style="color:purple;">Explore Bodrum Destinationa</mark></a></td></tr><tr><td>History</td><td></td><td></td></tr><tr><td>Events</td><td></td><td></td></tr></tbody></table>
 
 ### Engineering knownledge for Bodrum Peninsula
 
