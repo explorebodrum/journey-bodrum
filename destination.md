@@ -22,13 +22,6 @@
 [bahceyaka.md](bodrum-destination/bahceyaka.md)
 {% endcontent-ref %}
 
-* [Yalikavak](Yalikavak.md)
-* [Gümüşlük](destination/Gumusluk.md)
-* [Turgutreis](destination/Turgutreis.md)
-* [Türkbükü](destination.md)
-* Akyarlar
-
-
 
 {% content-ref url="bodrum-destination/yahsi.md" %}
 [yahsi.md](bodrum-destination/yahsi.md)
