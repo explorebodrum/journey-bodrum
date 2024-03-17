@@ -60,7 +60,7 @@
 * [😍 YALIKAVAK](bodrum-destination/yalikavak.md)
 * [YENİKÖY](bodrum-destination/yenikoey.md)
 * [YENİKÖY (KARAOVA)](bodrum-destination/yenikoey-karaova.md)
-* [🧚♀ YOKUŞBAŞI](bodrum-destination/yokusbasi.md)
+* [🧚‍♀️ YOKUŞBAŞI](bodrum-destination/yokusbasi.md)
 
 ## where is bodrum
 
